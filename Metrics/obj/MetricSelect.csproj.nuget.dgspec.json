@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Metrics\\Metrics\\MetricSelect.csproj": {}
+    "C:\\Users\\User\\git\\MetricSelect\\Metrics\\MetricSelect.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Metrics\\Metrics\\MetricSelect.csproj": {
+    "C:\\Users\\User\\git\\MetricSelect\\Metrics\\MetricSelect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Metrics\\Metrics\\MetricSelect.csproj",
+        "projectUniqueName": "C:\\Users\\User\\git\\MetricSelect\\Metrics\\MetricSelect.csproj",
         "projectName": "MetricSelect",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Metrics\\Metrics\\MetricSelect.csproj",
+        "projectPath": "C:\\Users\\User\\git\\MetricSelect\\Metrics\\MetricSelect.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Metrics\\Metrics\\obj\\",
+        "outputPath": "C:\\Users\\User\\git\\MetricSelect\\Metrics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

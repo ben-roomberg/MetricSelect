@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DBChKjVeJH9L8EE3qmxuRb/v80ld4GsT6oHo5OHx3rXOKHRAB2vx3wC+pNi7ARHoCVc89/565DReqRZqXTLCQw==",
+  "dgSpecHash": "xASnin8t4JbuuCW9SQ0oiM1gC47xSCvgsigu+NDLPCd9n1UOPila3tqzbwjgetHVF3DrQ9ifu1kNLoeZdE0iBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\Metrics\\Metrics\\MetricSelect.csproj",
+  "projectFilePath": "C:\\Users\\User\\git\\MetricSelect\\Metrics\\MetricSelect.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\javascriptengineswitcher.core\\3.3.0\\javascriptengineswitcher.core.3.3.0.nupkg.sha512",
