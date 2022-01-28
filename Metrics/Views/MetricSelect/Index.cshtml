@@ -1,0 +1,18 @@
+﻿@{
+    Layout = null;
+}
+
+<html>
+<head>
+    <title>Metric Select</title>
+    <link href="~/css/MetricSelect.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="content"></div>
+    @*loading from cdn for dev, to be replaced with saved copies for a production system*@
+    <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react/16.13.0/umd/react.development.js"></script>
+    <script crossorigin src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/16.13.0/umd/react-dom.development.js"></script>
+    <script src="@Url.Content("~/js/MetricSelect.jsx")"></script>
+    <script src="@Url.Content("~/js/Application.jsx")"></script>
+</body>
+</html>
